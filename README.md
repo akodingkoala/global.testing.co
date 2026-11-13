@@ -21,5 +21,3 @@ Open http://localhost:8000.
 Forecasts use Open-Meteo. Google Fonts supplies the optional web fonts. Both require an internet connection.
 
 Live site: https://rainroom-weather-nov13.chalkyseahorse8.chatgpt.site
-
-Website changes requested in the associated Codex conversation should also be committed to this repository. GitHub source updates and Sites publication are separate operations; this repository does not configure automatic deployment.
